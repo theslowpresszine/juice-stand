@@ -1,0 +1,73 @@
+---
+layout: base
+---
+
+<div class="contain-posts">
+  {%- if page.title -%}
+    <h1>Posts</h1>
+  {%- endif -%}
+
+  {{ content }}
+  
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li>
+		{%- if page.image -%}
+		<div class="post-image">
+		<img class="img-border" src="{{- post.image | relative_url -}}" alt="blog roll image" />
+		</div>
+		{%- endif -%}
+		<div class="post-details">
+        <span class="post-meta">{{ post.date | date: date_format }} &sdot; {{ post.author }}</span>
+        <h2 class="post-link">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
+          {{ post.content | truncate: '400' }}
+		  </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+</div>
+
+ <div class="contain-sidebar">
+<h1>Tags</h1>
+{% for tag in site.tags %}
+    {% capture tag_name %}{{ tag| first }}{% endcapture %}
+    <a class="category" href="{{site.baseurl}}/tags/#{{tag_name}}">{{ tag_name }}</a><br>
+{% endfor %}
+
+ <p><a href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}">RSS Feed</a></p>
+</div>

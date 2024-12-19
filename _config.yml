@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: THE SLOW PRESS' JUICE STAND
+title: THE SLOW PRESS
 email: theslowpressmagazine@gmail.com
 description: >-
     We are an independent food zine from Singapore dedicated to uncovering stories about food.
