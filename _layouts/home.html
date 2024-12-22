@@ -1,6 +1,10 @@
 ---
 layout: base
 ---
+<!-- thanks to https://docs.jpdiaz.dev/posts/featured-image/ for how to add images for each post -->
+<!-- thanks to https://blog.webjeda.com/jekyll-categories/#categories-count for how to add categories -->
+<!-- thanks to https://www.yizehu.com/2017/06/19/sort-tags-in-jekyll for how to sort categories alphabetically -->
+<!-- thanks to https://dev.to/heymichellemac/jekyll-how-to-display-a-count-of-posts-per-tag-or-category-3c9m for how to count number of posts in tag -->
 
 <div class="contain-posts">
   {%- if page.title -%}
@@ -23,11 +27,24 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-		{%- if page.image -%}
+		{%- if post.image -%}
 		<div class="post-image">
-		<img class="img-border" src="{{- post.image | relative_url -}}" alt="blog roll image" />
+		<img class="img-border" src="{{- post.image | relative_url -}}" alt="" />
 		</div>
-		{%- endif -%}
+		<div class="post-details-img">
+        <span class="post-meta">{{ post.date | date: date_format }} &sdot; {{ post.author }}</span>
+        <h2 class="post-link">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
+		  {%- if post.content contains '<!--more-->' -%}
+			{{ post.excerpt }}
+		  {%- else -%}
+			{{ post.content | strip_html | truncate: '300' }}
+		  {%- endif -%}
+		  </div>
+		{%- else -%}
 		<div class="post-details">
         <span class="post-meta">{{ post.date | date: date_format }} &sdot; {{ post.author }}</span>
         <h2 class="post-link">
@@ -35,8 +52,13 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h2>
-          {{ post.content | truncate: '400' }}
+		  {%- if post.content contains '<!--more-->' -%}
+			{{ post.excerpt }}
+		  {%- else -%}
+			{{ post.content | strip_html | truncate: '300' }}
+		  {%- endif -%}
 		  </div>
+		{%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
@@ -64,10 +86,27 @@ layout: base
 
  <div class="contain-sidebar">
 <h1>Tags</h1>
-{% for tag in site.tags %}
-    {% capture tag_name %}{{ tag| first }}{% endcapture %}
-    <a class="category" href="{{site.baseurl}}/tags/#{{tag_name}}">{{ tag_name }}</a><br>
+<ul>
+{% for tag in site.tags  %}
+    {% assign tag_name = tag[0] %}
+	{% assign tag_size = tag[1].size %}
+	{% assign tag_item = tag_name | append: "@" | append: tag_size %}
+    {% assign taglist = taglist | append: tag_item | append: ", " %}	  
+{% endfor %}
+{% assign sorted_taglist = taglist | split: ", " | sort %}
+{% for sorted_tag in sorted_taglist %}
+	{% assign sorted_tag_items = sorted_tag | split: "@" %}
+	{% assign counter = 0 %}
+		{% for item in sorted_tag_items %}
+		{% if counter == 0 %}	
+		  <li><a href="{{site.baseurl}}/tags/#{{ item }}" class="post-category-tag">{{ item }}</a>
+		  {% assign counter = 1 %}
+		{% else %}
+		({{ item }})</li>
+		{% endif %}
+		{% endfor %}
 {% endfor %}
 
+</ul>
  <p><a href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}">RSS Feed</a></p>
 </div>

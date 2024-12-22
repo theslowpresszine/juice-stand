@@ -1,16 +1,18 @@
 ---
 layout: base
 ---
-<!-- thanks to https://davidcapello.com/blog/tips/reading-time-in-jekyll/ for reading time code -->
+<!-- thanks to https://docs.jpdiaz.dev/posts/featured-image/ for how to add a features image -->
 <!-- thanks to https://blog.webjeda.com/jekyll-categories/#categories-count for how to add post categories -->
 
+<div>
+{%- if page.image -%}
+<img src="{{ page.image | relative_url }}" alt="" class="recipe-header-image">
+{%- endif -%}
+</div>
 <div class="contain-threequart">
 <article itemscope itemtype="http://schema.org/BlogPosting">
 	
     <h1>{{ page.title | escape }}</h1>
-	{% capture read_time %}
-	  {{ page.content | number_of_words | divided_by: 180 }}
-	{% endcapture %}
 	<p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -23,7 +25,6 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-	  
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -37,12 +38,6 @@ layout: base
   {% else %}
     {% assign tags = page.tags %}
   {% endif %}
-  
-  •  {% if read_time != '0' %}
-	  {{ read_time }}
-	{% else %}
-	  1
-	{% endif %} min read
   <br>
   FILED UNDER:
   {% for tag in tags %}
@@ -51,6 +46,8 @@ layout: base
   {% endfor %}
 	</p>
     
+
+
   <div itemprop="articleBody">
     {{ content }}
   </div>

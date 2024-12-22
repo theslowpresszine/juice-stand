@@ -27,6 +27,7 @@ url: https://theslowpresszine.com  # the base hostname and protocol for your sit
 baseurl: /juice-stand
 instagram_username: theslowpress
 github_username:  theslowpresszine
+paginate: 5
 
 # Build settings
 theme: minima

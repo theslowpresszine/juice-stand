@@ -1,5 +1,5 @@
-.contain-posts { box-sizing: border-box; width: 50vw; }
-.contain-sidebar { box-sizing: border-box; width: 15vw; }
+.contain-posts { box-sizing: border-box; width: 55vw; }
+.contain-sidebar { box-sizing: border-box; width: 10vw; }
 
 .post-list {
   margin-left: 0px;
@@ -11,10 +11,10 @@
   margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
-  gap: 20px;
 }
 
-.post-image { width: 30%; flex-shrink:0; }
+.post-image { width: 30%; }
+.post-image > img { aspect-ratio: 3/2; object-fit: cover; }
 
 .post-meta {
   text-transform: uppercase;
@@ -22,11 +22,26 @@
   font-family:'Necto Mono', monospace;
 }
 
+.post-details-img { width: 68%; }
+	
 .post-link { text-decoration:underline; color:var(--tert-color); margin: 0; }
 
 .category { text-transform: capitalize; }
 
+.recipe-header-image { width: 100%; object-fit: cover; aspect-ratio: 3/1; }
+p { width: 100%; text-align: justify; }
+p > img { max-width: 80%; display: block; margin: auto; padding: 5px; margin: 0 auto; border: 1px solid; }
+img + em { color:var(--main-color); font-size: 0.9em; display: block; margin: auto; text-align: center; margin: 5px 0px; }
+
+blockquote { border-left: 5px solid var(--main-color); max-width:100%; padding: 0 10px; font-style: italic; }
+
 @media only screen and (max-width: 1024px) {
   .contain-posts { width: 80vw; }
   .contain-sidebar { width: 80vw; }
+}
+
+@media only screen and (max-width: 700px) {
+  .post-image { width: 100%; }
+  .post-list > li { flex-wrap: wrap; gap: 0; }
+  .post-details { width: 100%; }
 }

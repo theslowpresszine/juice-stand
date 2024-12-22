@@ -1,0 +1,88 @@
+---
+layout: post
+title: "Vol. 6: Something Good to Eat"
+date: 2024-05-26 10:00:00 +0800
+tags: vol-6
+author: Jackson Kao
+image: media/something-good/cover.jpg
+excerpt_separator: <!--more-->
+---
+
+*Written by Jackson Kao*
+*Original article designed by Grace Hong*
+
+*This story originally appeared in The Slow Press Vol. 6: BEST BEFORE.*
+
+<!--more-->
+
+Construction workers break for lunch under a heavy sun. The men scavenge whatever shade they can find, ducking under bridges or beneath the twisting baskets of rain tree branches, and retrieve their lunches, packets of wax paper tied with red rubber bands, from their nylon backpacks. With a decisive snap, they unwrap their packets and scrutinise the contents. Inside, a sour smell rises from the mountain of white rice; scales cling dubiously to the meat of the fish, the vegetables hang limp. The men wrinkle their noses.
+
+![]({{site.url}}/juice-stand/media/something-good/1.jpg)
+*Photo courtesy of TWC2.*
+
+Singapore’s rapid urban development has relied upon migrant labour since its founding, namely in the form of men from Bangladesh and India. As of December 2022, there were roughly 415,000 CMP (construction, marine shipyard, processing) work permit holders in Singapore, about 13.5% of the country’s total population. As a whole, foreign labour in Singapore makes up about 38% of the nation’s entire  population. 
+
+Migrant construction workers face tumultuous conditions in Singapore. While these men frequently spend large portions of their life in Singapore, away from their families, they are by little means supported as members of Singaporean society. Before arrival, workers must fork over significant fees to secure a job, and generally spend their first year in Singapore indebted, meaning one year before they are able to send
+
+any money back home. Construction sites can be hazardous for workers, with highly strenuous labour involved, and workplace injury, far too commonplace. The workers are in no position to advocate for themselves; employers have the right to revoke visas at a moment’s notice. Amidst these concerns is another urgent, lesser known obstacle which migrant workers face daily–that of unhygienic meals. I endeavoured to research the landscape of meals for migrant construction workers in Singapore, a long standing issue which has gone unaddressed for decades.
+
+![]({{site.url}}/juice-stand/media/something-good/2.jpg)
+*Photo courtesy of TWC2.*
+
+As a country, Singapore is a food paradise. The diversity and quality of available cuisine on such a small island scape, as well as the excellent hygiene of its offerings are seen to be in a class of their own. Government organisations like the Ministry of Health and the Singapore Food Agency (SFA) ensure that the country has access to a stable supply of nutritious food, which is safe to eat. Every grade of food institution from wet markets to bustling food courts are kept strictly hygienic through stringent regulations implemented by the SFA, who claims to have a licensing and food inspection regime that covers every food establishment in Singapore. And though their claim paints an idyllic image, the hygiene standards which keep Singaporeans and tourists safe and healthy are consistently absent in the meals which migrant construction workers receive through food catering. Singapore is founded upon inadequate meals, a fact that stands in stark contradiction to the country’s sustainability-forward portrait. The workforce responsible for building and maintaining Singapore’s infrastructure is receiving inedible, inappropriate meals on a daily basis.
+
+What do migrant construction workers eat in Singapore? Construction workers hail from all over India and Bangladesh, bringing with them their own culinary traditions and cultural identities. The current mode of providing these men with meals is through food catering, a system with minimal accountability, bent on keeping costs to a bare minimum. The first gap in the catering system lies in the fact that two shipments supply three meals per day. Catered meals are cooked in large central kitchens around the island. Prepared at night, breakfast and lunch are shipped out early in the morning to dormitories, where migrant construction workers are predominantly housed. Shipments of food are left in cardboard boxes in front of the dormitories. A second shipment arrives in the evening for dinner. While certainly cutting costs for delivery, such a system creates a huge hygienic deficit for the workers, as their meals go unrefrigerated for extended, indeterminate periods of time. Not only are the workers meals unhygienic, they also lack proper nutritional components, and are found to be culturally inappropriate.
+
+While overlooked, it is not as if the issue of migrant worker food hygiene has gone undocumented. In 2015, the National University of Singapore published a paper,
+
+Food Insecurity and Health of Bangladeshi Workers in Singapore, through their CARE White Paper series. The comprehensive report outlined the pitfalls of the current food landscape for Bangladeshi workers in Singapore. In a thorough investigation involving extensive qualitative survey and interview data, the NUS report determined that workers were consistently being fed with unhygienic, inappropriate, and insufficient meals, causing frequent instances of stomach pain and food poisoning which could be traced directly back to poorly prepared catered meals. In the survey of 500 Bangladeshi men, 86% of the workers said that catered food made them sick. The conclusions of this report mirrored my own findings when I ventured to understand the issue, eight years later.
+
+In February of 2023 I began to volunteer with an organisation called Transient
+
+Workers Count Too (TWC2) in Little India, gathering information on the landscape of catered food through interviews. TWC2 is a local NGO, dedicated to advocating for the migrant construction community in Singapore. Their mission is to support the needs of the vulnerable migrant population through advocacy, outreach, and consultation. The TWC2 site in Little India is known as the Cuff Road project, where construction workers line up each day to consult with trained staff regarding workplace, visa, and injury issues, and to receive meal tokens which they can redeem at several neighbourhood canteens. I began by observing and participating in consultations, and then shifted my focus to interviews, striking up conversations with workers on their opinions of catered meals. Often, they agreed to sit with me for a few minutes after they’d redeemed their meal token or received some consultation for their issue. “Makan no good” (food no good), accompanied by a shake of the head, was the unilateral response to my initial inquiry about the satisfaction of their catered meals. The men were eager to voice their displeasure at their food conditions; the challenge quickly became directing my questions in such a way that they generated details on what exactly made the makan ‘no good.’
+
+I sat beside the queue of workers there in Little India, taking notes, working with translators, gathering facts and opinions on the landscape of catered food. Catering companies are bent on cutting costs at the direct expense of the workers’ health and wellbeing. Along with breakfast, lunch is cooked the night before and shipped early in the morning. The workers eat their breakfast, usually a few rotis with gravy, and bring their lunch packet to the worksite. At midday, they break for lunch and visit their packets. The packet usually consists of rice, with dhal, vegetable, and some protein, cooked and loaded into an unrefrigerated truck sometime the night before. Food storage facilities are rarely available on construction sites, and it may be well into the
+
+afternoon by the time workers break for lunch. The SFA dictates that cooked food, unrefrigerated, should be eaten within four hours, else it be considered unsafe to eat. 
+
+Upon opening their packets, the workers often discover that the food has a sharp, sour smell, or has simply spoiled entirely. Already, the quality of ingredients used in catered meals is incredibly low. Vegetables are consistently old and wilted, vegetable skins and stems mixed in alongside the rest of the cooked ingredients. Proteins too are fish is often not properly descaled. Cheap, undercooked rice is a pervasive issue for
+
+migrant workers, who frequently cited significant stomach pain from eating catered rice. Aside from poor ingredient quality is the issue of mundanity, as catering companies buy cheap ingredients in bulk, and incorporate them into the meals on repeat. For workers, the regularity of the same ingredients and spices day after day is crushing. Cross-contamination is an issue which workers experience frequently. Several of the Bangladeshi workers I interviewed complained that their meals regularly contained chilli powder, a common ingredient in Indian meals, but one which Bangladeshi workers are not comfortable consuming. Worse still, not only do unwanted, inappropriate ingredients end up in their meals, but cockroaches and bits of plastic, too.
+
+It is no surprise that migrant workers have a severe distaste and mistrust toward the system that caters their meals. In whatever way they can, workers take it upon themselves to salvage and substitute their unsatisfactory meals–purchasing another meal is not a viable alternative. If their meal on the day has spoiled in the sun, perhaps the rice, which the rancid dhal has not touched, can still be eaten; maybe the vegetables are serviceable, but not the fish. Considering the pervasive lack of nutritional variety and high rate of spoilage, workers will supplement their meals with a little bit of this or that at their own expense. Sometimes, workers might bring along a few hard boiled eggs from their dormitory, to add protein to their meal, or buy a few packets of curry or chopped salad from the market.
+
+![]({{site.url}}/juice-stand/media/something-good/3.jpg)
+*Photo courtesy of TWC2.*
+
+Personal cooking for migrant workers offers some salvation, that is for those who are permitted. The majority of worker dormitories do not have cooking facilities, and forbid the workers from cooking in their rooms. Dormitories that do allow cooking often have limited facilities, shared between hundreds of workers. But whenever possible, the men I interviewed almost entirely asserted that cooking was preferable to consuming catered meals. Considering the effort of cooking after a long day’s work, the buying of the ingredients, the preparation, the cleaning, this desire should not be taken lightly. It is exceedingly difficult to cook with their schedules, but still they prefer it. This immense effort brings with it the relief from the uncertainty of poorly prepared meals, because it is they who are picking out the ingredients, they who are adding the proper spices. The men can share these cooked meals with friends and others who might not have the time or skill to cook for themselves. Through cooking, workers access the familiar.
+
+In March, I interviewed a Bangladeshi TWC2 ambassador, Humayun, a worker in the Singaporean construction industry for 13 years. We had been sitting in the shade outside Mustafa Centre, discussing life in Singapore and his perspective on food catering. A few of his friends sat nearby leaning in with their input from time to time. The interview was wrapping up, and we were all discussing our respective plans for Hari Raya, known also as Eid al Adha, the largest Islamic holiday, just around the corner. I had never experienced the Islamic festival before, and when I disclosed this information, Humayun invited me to join his own feast in the coming month, extending the invitation with delight at the idea of sharing his traditions with me.
+
+<div style="width: 30%; float: left; margin: 20px;">
+    <img src="{{site.url}}/juice-stand/media/something-good/4.jpg" class="img-border img-full" alt="">
+<em>Humayan and Jackson all dressed up ready to celebrate Hari Raya. Photo courtesy of Jackson Kao.</em>
+</div>
+
+
+
+
+I arrived on the morning of April 22nd at an industrial complex in Mandai, the northmost tip of Singapore. Men rushed around in colourful, crisp outfits and the air buzzed with conversation. Wearing a handsome kurta and a humble smile, Humayun met me outside and I followed him into an industrial complex, up several floors in the elevator, and into a room with wooden double-doors. The space resembled an office, with swivelling chairs, stacked cardboard boxes, and rolled up blueprints leaned against the wall. An aroma of spices wafted in from the back, filling the makeshift
+
+dining space and mingling with the office decor. I took a peek in the back where the
+
+food was cooking. Men in long, dark gowns stood over large steaming pots and kettles, where they had been making meal preparations since morning. Humayun’s younger brother came out from the back and introduced himself with a shy grin. I produced a box of dates which Humayun accepted, and was invited to sit at a round white table in one of the swivelling chairs. There were little plastic containers of fried crackers, cookies and nuts on the table, which I was urged to try. Humayun ducked in the back.
+
+Moments later, a banquet hit the table, ladened with the celebratory delights of Bangladesh. Humayun introduced me to the dishes as they arrived: pilau rice, roast curried chicken, gorur mangsho beef, chopped salad of cucumbers, tomatoes, and red onion with sliced limes, and mashkalai dhal. The sheer volume became only more staggering when Humayun mentioned that he and his friends had broken fast earlier in the morning, and that these dishes were for me alone. He smiled broadly, ‘Please eat.’
+
+Steamed along with spices like bay leaf, cardamom, and ginger, the rice was a bouquet of rich aromatics and demanded disciplined savouring unto itself. I sipped at the bowl of dhal, cooked from split black urad beans, bathing in its soothing and peppery warmth. My fingers wandered through the mountainous dishes, golden curried chicken falling from the bone at my slightest touch, the freshly chopped salad delivering a crunchy respite with plenty of lime. The beef, cooked with whole spices like dry chilies and cumin, beckoned me too. My fingers became yellow at the tips from curry and tumeric, my head floating somewhere in the clouds above Mandai. Humayun pulled out his phone, proudly displaying pictures of his wife and child back in Bangladesh, who smiled from his screen, donned in beautiful gowns for the special day. Friends came out from the kitchen to say hello, remarking with good-natured chuckles at my celebratory costume.
+
+I ate until I could eat no more, and then dessert arrived. Traditionally eaten all over Bangladesh for Eid al Adha, dessert was a white bowl of shemai, a traditional cold vermicelli rice pudding. Rich with sugary ghee and leaping with cinnamon, cardamom and saffron, the shemai was excessive in the most delightful way. With slight difficulty, I spun up from the swivelling chair and we took a few commemorative selfies in the hallway, before Humayun brought me downstairs. I noticed that he and his brother had been wearing matching outfits, lightly patterned kurtas with blue and white flowers. He told me that growing up, his parents had always bought him and his brother matching outfits for Hari Raya.
+
+Despite both working in Singapore, their busy schedules offer little time to meet in person. This year, Humayun had bought himself and his brother matching outfits to continue the tradition, to remind the brothers of their childhood and their home, to which one day they hope to return.
+
+Migrant workers arrive in Singapore with their own culinary traditions, their own nostalgia for familiar recipes, which in their own subtle way, enrich the landscape of local food culture. The fact that they are deprived of edible, culturally appropriate meals is unthinkable in a country like Singapore. Hari Raya celebrations are one of the few times during the year in which workers can truly celebrate their own traditions, a small respite from the daily affront of catered meals. Singapore is a nation that cares immensely about its food; the hardlined stances on authenticity, the snaking queues, the one-too-many goreng pisang are indelible threads in the country’s burgeoning fabric. Construction workers also take great pride and care in the food that they eat, strongly held opinions on what constitutes a good, valuable meal. These men are an inseparable part of the Singaporean landscape. It is through their labour that the shape of Singapore is realised, their labour that makes it possible for Singaporeans and visitors alike to access all that Singapore has to offer.
+
+Humayun and I arrived back downstairs in the sunlight where brightly dressed men were still rushing on their way to or from a greeting, an outing, a bite to eat. We bumped into one of Humayun’s cousins, and took a few more pictures. Before 11am, we had shaken hands, bid each other farewell, and I was catching the bus back into town. We texted back and forth, exchanging pictures and animated notes of gratitude. Remnants of cardamom and mustard seed lingered on my tongue and permeated my stomach long after the celebratory day had turned to night.
+
+![]({{site.url}}/juice-stand/media/something-good/5.jpg)
+*Photo courtesy of Jackson Kao.*
