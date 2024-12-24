@@ -4,7 +4,7 @@ permalink: /tags/
 title: BLOG POSTS BY TAGS
 ---
 
-
+<div class="container">
 <div class="contain-threequart">
 <h1>Blog Posts by Tags</h1>
 <h3>Tag List</h3>
@@ -18,7 +18,8 @@ title: BLOG POSTS BY TAGS
 {% endfor %}
 
 {% for sorted_tag in sorted_taglist %}
-    <h3 id="{{ sorted_tag | slugify }}">{{ sorted_tag | capitalize }}</h3>
+	<div id="{{ sorted_tag | slugify }}" style="padding-top:10px;"></div>
+    <h3>{{ sorted_tag | capitalize }}</h3>
     <ul>
     {% for post in site.posts %}
       {% if post.tags contains sorted_tag %}
@@ -28,5 +29,5 @@ title: BLOG POSTS BY TAGS
     {% endfor %}
     </ul>
 {% endfor %}
-    
+</div>
 </div>

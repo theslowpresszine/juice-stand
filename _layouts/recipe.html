@@ -4,6 +4,7 @@ layout: base
 <!-- thanks to https://docs.jpdiaz.dev/posts/featured-image/ for how to add a features image -->
 <!-- thanks to https://blog.webjeda.com/jekyll-categories/#categories-count for how to add post categories -->
 
+<div class="container">
 <div>
 {%- if page.image -%}
 <img src="{{ page.image | relative_url }}" alt="" class="recipe-header-image">
@@ -60,4 +61,18 @@ layout: base
 	
   <a href="{{ page.url | relative_url }}" hidden></a>
 </article>
+</div>
+</div>
+
+<div class="container yellow">
+<div class="contain-threequart">
+	<div class="PageNavigation">
+	  {% if page.previous.url %}
+		<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+	  {% endif %}
+	  {% if page.next.url %}
+		<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+	  {% endif %}
+	</div>
+</div>
 </div>
