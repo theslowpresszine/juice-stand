@@ -1,5 +1,6 @@
 ---
 layout: base
+title: THE JUICE STAND
 ---
 <!-- thanks to https://docs.jpdiaz.dev/posts/featured-image/ for how to add images for each post -->
 <!-- thanks to https://blog.webjeda.com/jekyll-categories/#categories-count for how to add categories -->
@@ -11,8 +12,6 @@ layout: base
     <h1>Posts</h1>
   {%- endif -%}
 
-  {{ content }}
-  
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
