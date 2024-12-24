@@ -30,8 +30,8 @@
 
 .pager { padding-top: 20px; border-top: 1px dashed; }
 .pagination { padding: 0; list-style: none; margin: auto; width: 150px; display: flex; justify-content: space-between; font-weight: 600; }
-.previous-page::before { content: '◄ '; }
-.next-page::after { content: ' ►' }
+.previous-page::before { content: '« '; }
+.next-page::after { content: ' »' }
 
 .PageNavigation {
   display: block;

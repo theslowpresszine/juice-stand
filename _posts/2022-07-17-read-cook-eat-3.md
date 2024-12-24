@@ -68,13 +68,13 @@ Anyhow, cockles in hand, we head back to start preparing the food. First comes c
 
 In the meantime, we prepare everything else. We make our way to Aromatown, as galangal is smashed, ginger is ground, and lemongrass is chopped (and also smashed). All in all, it’s a fairly simple recipe which just requires a bit of elbow grease. I put my mortar and pestle to work, and soon enough everything is ready except for one last ingredient - The Peanuts.
 
-![]({{site.url}}/juice-stand/media/rce-3/8.jpg)
+![]({{site.url}}/juice-stand/media/rce-3/8.png)
 *Blue ginger, yellow ginger, same same but different.*
 
-![]({{site.url}}/juice-stand/media/rce-3/9.gif)
+![]({{site.url}}/juice-stand/media/rce-3/9.png)
 *Mashin.*
 
-![]({{site.url}}/juice-stand/media/rce-3/10.jpg)
+![]({{site.url}}/juice-stand/media/rce-3/10.png)
 *Preparing the sauce base!*
 
 Just before I start preparing the peanuts, I realise I’ve made a small mistake, as I’ve mistakenly bought peanuts without the shells on. But it’s okay! It’ll do, still. These still have the skins on, though, so we don’t even get to be super lazy. 
