@@ -84,5 +84,5 @@ Migrant workers arrive in Singapore with their own culinary traditions, their ow
 
 Humayun and I arrived back downstairs in the sunlight where brightly dressed men were still rushing on their way to or from a greeting, an outing, a bite to eat. We bumped into one of Humayun’s cousins, and took a few more pictures. Before 11am, we had shaken hands, bid each other farewell, and I was catching the bus back into town. We texted back and forth, exchanging pictures and animated notes of gratitude. Remnants of cardamom and mustard seed lingered on my tongue and permeated my stomach long after the celebratory day had turned to night.
 
-![]({{site.url}}/juice-stand/media/something-good/5.jpg)
+![]({{site.url}}/juice-stand/media/something-good/5.jpeg)
 *Photo courtesy of Jackson Kao.*
